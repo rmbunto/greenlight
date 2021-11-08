@@ -224,7 +224,7 @@ fr:
         valid: Valide
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: LMSBoard Live
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
@@ -302,7 +302,7 @@ fr:
     email: Email
     submit: Soumettre
   go_back: Retour
-  greenlight: Greenlight
+  greenlight: Advance Cloud
   header:
     all_recordings: Tous les enregistrements
     dropdown:
