@@ -328,7 +328,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "LMSBoard Live is a simple interface for your live lessons. Accessible from our Elearning platform %{href}, you can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "LMSBoard Live is a simple interface for your live lessons. Accessible from the Elearning platform %{href}, you can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to LMSBoard Live.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
