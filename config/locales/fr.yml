@@ -335,6 +335,7 @@ fr:
   language_default: Par défaut (langue du navigateur)
   ldap_error: Impossible de se connecter au serveur LDAP. Veuillez vérifier votre configuration LDAP dans le fichier env et vous assurer que votre serveur est en cours d'exécution.
   lmsboard: LMSBoard
+  lmsboard_live: LMSBoard Live
   login: Connexion
   login_title: Connexion avec votre compte
   mailer:
